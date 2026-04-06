@@ -63,3 +63,7 @@ The wizard offers to install these. All optional but recommended:
 - [Andrej Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 - [Agent Skills open standard](https://agentskills.io)
 - [Blueprint & origin story](docs/REQUIREMENTS.md) — the founding document for this project
+
+---
+
+<p align="center">Want to learn how to build projects like this with AI? Join the <a href="https://www.skool.com/buildwithai/about">Build With AI</a> community.</p>
