@@ -28,7 +28,7 @@ Accept any user-provided name. This becomes the folder name and the title in the
 
 Ask:
 > "Where should I create it? Give me a path, or I'll use the default."
-> Default: `~/Documents/`
+> Default: `~/Library/CloudStorage/OneDrive-Personal/Vaults`
 
 Accept any absolute or relative path. Resolve `~` to the user's home directory. The final vault path is `{location}/{vault-name}/`.
 
